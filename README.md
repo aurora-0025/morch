@@ -1,7 +1,8 @@
+<p align="center">
+  <img width="150" alt="favicon" src="https://github.com/aurora-0025/morch/blob/master/assets/play_store_512.png?raw=true">
+</p>
 <h1 align="center">MORCH</h1> 
 <h3 align="center">A TinkerHub Co-coder :couple: submission</h3> 
-
-![banner](https://user-images.githubusercontent.com/78461388/156122700-50ec87fc-f854-4aca-aafb-e3582010e5bc.png) 
 
 ---
   
@@ -60,4 +61,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/aurora-0025/morch)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/aurora-0025/morch/pulls)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+
+![banner](https://user-images.githubusercontent.com/78461388/156122700-50ec87fc-f854-4aca-aafb-e3582010e5bc.png) 
+
